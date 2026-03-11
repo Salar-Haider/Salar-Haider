@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate web developer focused on building modern and scalable applications.<br><br>Currently working with Python and ASP.NET to develop efficient backend systems.<br><br>Interested in Machine Learning and Artificial Intelligence.<br><br>I enjoy solving problems, writing clean code, and learning new technologies.<br><br>Always exploring new ideas and building real-world projects.
+Passionate web developer focused on building modern and scalable applications.<br>Currently working with Python and ASP.NET to develop efficient backend systems.<br>Interested in Machine Learning and Artificial Intelligence.<br>I enjoy solving problems, writing clean code, and learning new technologies.<br>Always exploring new ideas and building real-world projects.
 
 
 ## 🌐 Socials:
